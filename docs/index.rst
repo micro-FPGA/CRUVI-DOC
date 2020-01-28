@@ -20,6 +20,14 @@ Connectors
 Board-to-Board mating height: 5 mm both for LS as for HS connectors.
 
 
++------------------------+--------------------+----------------------+
+| Connector Type         | Carrier/Base       | Module/Function      |
++========================+====================+======================+
+| HS High Speed          | SS4-30-3.50-L-D-K  | ST4-30-1.50-L-D-P    |
++------------------------+--------------------+----------------------+
+| LS Low Speed           | CLT-106-02-F-D-A-K | TMMH-106-04-F-DV-A-M |
++------------------------+--------------------+----------------------+
+
 
 
 FMC Compatibility
