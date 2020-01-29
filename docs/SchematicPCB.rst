@@ -1,7 +1,7 @@
 Altium Designer
 ---------------
 
-Signle width module with SMA connectors:
+Single width module with SMA connectors:
 
 .. image:: CR00009-01-3D.png
 
