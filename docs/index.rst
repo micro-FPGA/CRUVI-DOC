@@ -1,13 +1,7 @@
-###
-TOP
-###
-
-****
-top2
-****
-
 CRUVI Design Guide
 ==================
+
+
 
 Mechanical
 ----------
