@@ -2,7 +2,6 @@ CRUVI Design Guide
 ==================
 
 
-
 Mechanical
 ----------
 
@@ -26,8 +25,6 @@ Board-to-Board mating height: 5 mm both for LS as for HS connectors. Use only co
 | LS Low Speed           | CLT-106-02-F-D-A-K | TMMH-106-04-F-DV-A-M |
 +------------------------+--------------------+----------------------+
 
-
-
 FMC Compatibility
 ~~~~~~~~~~~~~~~~~
 
@@ -40,4 +37,34 @@ FMC to CRUVI adapter, two single width CRUVI modules installed.
 For evaluation and testing CRUVI connectors can be on the other side of the FMC in that case all CRUVI modules would fit.
 
 .. image:: CR00062-3D.png
+
+Schematic/PCB
+-------------
+
+Altium Designer
+~~~~~~~~~~~~~~~
+
+Single width module with SMA connectors:
+
+.. image:: CR00009-01-3D.png
+
+This template should be used for single wide modules. SMA connectors are placed for FMC compatible front bezel.
+
+KiCAD
+~~~~~
+
+WiP
+
+Eagle
+~~~~~
+
+WiP
+
+
+
+
+
+
+
+
 
