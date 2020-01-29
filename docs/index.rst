@@ -1,11 +1,10 @@
-##################
+
 CRUVI Design Guide
-##################
+==================
 
-
-**********
 Mechanical
-**********
+----------
+
 All measurements are in mm except module to module spacing.
 
 Module spacing: module-to-module spacing is fixed 900 mil (same as PMoD)
@@ -14,7 +13,7 @@ Module max width: 22mm this allows 0.86 mm between max width installed modules
 
 
 Connectors
-==========
+~~~~~~~~~~
 Board-to-Board mating height: 5 mm both for LS as for HS connectors. Use only connectors with correct height:
 
 +------------------------+--------------------+----------------------+
@@ -28,7 +27,7 @@ Board-to-Board mating height: 5 mm both for LS as for HS connectors. Use only co
 
 
 FMC Compatibility
-=================
+~~~~~~~~~~~~~~~~~
 CRUVI modules designed as low profile and with FMC compatibility will fit inside standard FMC mezzanine module:
 
 .. image:: CR00061-3D.png
