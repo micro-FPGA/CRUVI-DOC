@@ -38,4 +38,10 @@ CRUVI modules designed as low profile and with FMC compatibility will fit inside
 
 FMC to CRUVI adapter, two single width CRUVI modules installed.
 
+For evaluation and testing CRUVI connectors can be on the other side of the FMC in that case all CRUVI modules would fit.
+
+.. image:: CR00062-3D.png
+
+
+
 
