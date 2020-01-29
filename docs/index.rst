@@ -3,5 +3,4 @@
    :caption: Contents:
 
    Design Guide <DesignGuide> 
-   Schematic/PCB <SchematicPCB>
-
+   
