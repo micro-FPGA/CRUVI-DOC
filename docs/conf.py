@@ -193,7 +193,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'RTDSphinxThemeSample.tex', project,
-     u'Read the Docs, Inc \\& contributors', 'manual'),
+     u'MicroFPGA UG \\& contributors', 'manual'),
 ]
 
 
