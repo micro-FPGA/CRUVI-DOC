@@ -54,9 +54,9 @@ def get_git_branch():
 
 # -- Project information -----------------------------------------------------
 
-project = u'Read the Docs Sphinx Theme Examples'
-copyright = u'2018, Read the Docs, Inc & contributors'
-author = u'Read the Docs, Inc & contributors'
+project = u'CRUVI Standard'
+copyright = u'2019, 2020 MicroFPGA UG & contributors'
+author = u'MicroFPGA UG & contributors'
 
 # The short X.Y version
 version = u''
@@ -165,6 +165,8 @@ html_static_path = ['_static']
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'RTDSphinxThemeSampledoc'
 
+# If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
+html_show_sphinx = False
 
 # -- Options for LaTeX output ------------------------------------------------
 
