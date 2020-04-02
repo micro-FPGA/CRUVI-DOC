@@ -38,6 +38,12 @@ For evaluation and testing CRUVI connectors can be on the other side of the FMC 
 
 .. image:: CR00062-3D.png
 
+PMoD Compatibility
+~~~~~~~~~~~~~~~~~~
+CRUVI LS maps 1:1 to-from PMoD only restriction is that PMoD as host would not deliver 5V to CRUVI.
+
+
+
 Schematic/PCB
 -------------
 
