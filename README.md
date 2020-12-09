@@ -1,5 +1,5 @@
 # CRUVI Documentation
-Documentation for CRUVI
+Documentation for CRUVI Open Standard
 
 https://cruvi.readthedocs.io/
 
