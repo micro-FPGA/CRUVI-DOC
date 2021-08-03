@@ -1,6 +1,12 @@
 CRUVI Design Guide
 ==================
 
+CRUVI specification https://github.com/micro-FPGA/CRUVI-DOC/blob/master/specification/CRUVI_Specification.pdf
+
+space 
+
+`CRUVI specification <https://github.com/micro-FPGA/CRUVI-DOC/blob/master/specification/CRUVI_Specification.pdf>`
+
 
 Mechanical
 ----------
