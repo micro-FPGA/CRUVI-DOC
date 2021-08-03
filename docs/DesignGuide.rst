@@ -5,7 +5,7 @@ CRUVI specification https://github.com/micro-FPGA/CRUVI-DOC/blob/master/specific
 
 space 
 
-`CRUVI specification <https://github.com/micro-FPGA/CRUVI-DOC/blob/master/specification/CRUVI_Specification.pdf>`
+`CRUVI specification <https://github.com/micro-FPGA/CRUVI-DOC/blob/master/specification/CRUVI_Specification.pdf>`_
 
 
 Mechanical
