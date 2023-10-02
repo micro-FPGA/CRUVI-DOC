@@ -56,7 +56,7 @@ def get_git_branch():
 # -- Project information -----------------------------------------------------
 
 project = u'CRUVI Standard'
-copyright = u'2019-2023 MicroFPGA UG & contributors'
+copyright = u'2019-2023 MicroFPGA UGh & contributors'
 author = u'MicroFPGA UGh & contributors'
 
 # The short X.Y version
