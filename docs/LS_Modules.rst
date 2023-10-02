@@ -1,11 +1,2 @@
-CRUVI LS Modules
-================
-
-CR00001
--------
-
-
-CR00005
--------
-
+List of CRUVI LS (Low Speed) modules.
 
