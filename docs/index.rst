@@ -7,6 +7,8 @@ If you want the SPECIFICATION please get it from here:
    :caption: Contents:
 
    LS Modules <LS_Modules>
+      CR00001 Pmod adapter <CR00001>
    HS Modules <HS_Modules>
+      CR00041 HyperRAM <CR00041> 
 
    
