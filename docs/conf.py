@@ -55,13 +55,13 @@ def get_git_branch():
 # -- Project information -----------------------------------------------------
 
 project = u'CRUVI Standard'
-copyright = u'2019-2021 MicroFPGA UG & contributors'
-author = u'MicroFPGA UG & contributors'
+copyright = u'2019-2023 MicroFPGA UG & contributors'
+author = u'MicroFPGA UGh & contributors'
 
 # The short X.Y version
 version = u'1.0'
 # The full version, including alpha/beta/rc tags
-release = u'1.0.4-alpha'
+release = u'1.0.5-alpha'
 
 
 # -- General configuration ---------------------------------------------------
@@ -105,6 +105,13 @@ pygments_style = 'sphinx'
 
 
 # -- Options for HTML output -------------------------------------------------
+
+html_theme = 'sphinx_rtd_theme'
+html_theme_options = {
+    'logo_only': True,
+    'navigation_depth': 5,
+}
+html_context = {}
 
 # Maps git branches to Sphinx themes
 default_html_theme = 'sphinx_rtd_theme'
