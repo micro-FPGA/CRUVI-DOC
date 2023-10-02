@@ -14,7 +14,7 @@
 #
 # import os
 # import sys
-# sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0, os.path.abspath('..'))
 import logging
 import os.path
 import re
@@ -74,7 +74,7 @@ release = u'1.0.5-alpha'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx_rtd_theme'
+    'sphinx_rtd_theme',
 ]
 
 html_theme = "sphinx_rtd_theme"
@@ -111,7 +111,7 @@ pygments_style = 'sphinx'
 
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
-    'logo_only': True,
+    'logo_only': False,
     'navigation_depth': 5,
 }
 html_context = {}
