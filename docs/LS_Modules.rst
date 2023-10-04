@@ -9,7 +9,7 @@ This module is simple SPI Flash adapter. Can be assembled with any SPI flash in 
 
 CR00005 Pmod Adapter
 --------------------
-.. image:: CR00005-01-3D.jpg
+.. image:: LS_Modules/CR00005-01-3D.jpg
 
 
 
