@@ -11,9 +11,6 @@ If you want the SPECIFICATION please get it from here:
    :caption: Contents:
 
    LS Modules <LS_Modules>
-      CR00001 SPI <CR00001>
-      CR00005 Pmod <CR00005>
    HS Modules <HS_Modules>
-      CR00041 HyperRAM <CR00041> 
 
    
