@@ -1,6 +1,8 @@
 List of Adapter boards
 ======================
 
+List of various adapter boards converting to/from some other form-factor or standard.
+
 CR00005 to Pmod Adapter
 -----------------------
 .. image:: Adapters/CR00005-01-3D.jpg

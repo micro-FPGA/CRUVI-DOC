@@ -26,10 +26,15 @@ CR00103 Certus-NX
 
 
 CR00107 Spartan-7
--------
+-----------------
 .. image:: Mini_Carriers/CR00107-01-3D.jpg
 
 
+TEI0050 Cyclone V
+-----------------
+.. image:: Mini_Carriers/TEI0050-01-3D.jpg
+
+Mini carrier (aka CYC5000) with Cyclone V FPGA. The base form factor is Arduino MKR format, with the addition of one CRUVI HS connector at the edge.
 
 
 
