@@ -21,7 +21,7 @@ CR00100 MAX10
 
 CR00103 Certus-NX
 -----------------
-.. image:: Mini_Carriers/CR00103-01-3D.jpg
+.. image:: Mini_Carriers/CR00103-03-3D.jpg
 
 
 
