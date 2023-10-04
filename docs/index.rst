@@ -10,8 +10,10 @@ If you want the SPECIFICATION please get it from here:
    :maxdepth: 5
    :caption: Contents:
 
-   LS_Modules/index
-   HS_Modules/index
+   LS Modules <LS_Modules>
+      CR00001 SPI <CR00001>
+      CR00005 Pmod <CR00005>
+   HS Modules <LS_Modules>
       CR00041 HyperRAM <CR00041> 
 
    
