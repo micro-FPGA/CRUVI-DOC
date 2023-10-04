@@ -1,6 +1,6 @@
 Mini Carriers
 =============
-This is list of "mini" carrier board for CRUVI modules. It is also possible to use them in reverse mode as a SoM.
+This is a list of "mini" carrier boards for CRUVI modules. It is also possible to use them in reverse mode as a SoM.
 
 
 CR00010
