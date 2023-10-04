@@ -20,6 +20,20 @@ CR00200 Ethernet
 .. image:: HS_Modules/CR00200-01-3D.jpg
 
 
+CR00201 Ethernet ADIN1300
+-------------------------
+This module is in pre-production, available soon!
+
+This module is very similar to CR00200 with the exception that different PHY is in use ADIN1300 from Analog Devices.
+
+
 CR00202 Ethernet Dual
 ---------------------
 .. image:: HS_Modules/CR00202-01-3D.jpg
+
+
+CR00203 Ethernet ADIN1300 Dual
+------------------------------
+This module is in pre-production, available soon!
+
+This module is very similar to CR00202 with the exception that different PHY is in use ADIN1300 from Analog Devices.
