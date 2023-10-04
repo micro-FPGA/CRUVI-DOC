@@ -15,4 +15,9 @@ CR00025 from Pmod Adapter
 
 This is purely passive 1:1 Adapter from Pmod to CRUVI LS connector. There are only two connectors and no active or passive components on board. For optional 5V VBUS voltage there are pin header holes for optional power header.
 
+CR00101 FMC Adapter
+-------------------
+.. image:: Adapters/CR00101-01-3D.jpg
+
+FMC to CRUVI HS adapter for low profile HS modules. Note for other HS modules (not low profile) another FMC card must be used.
 
