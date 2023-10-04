@@ -15,8 +15,8 @@ PSRAM add-on board for AP Memroy PSRAM devices, 8 and 16 bit mode supported. VCC
 
 
 
-CR00200 Ethernet
-----------------
+CR00200 Ethernet 88E1512
+------------------------
 .. image:: HS_Modules/CR00200-01-3D.jpg
 
 
@@ -27,8 +27,8 @@ This module is in pre-production, available soon!
 This module is very similar to CR00200 with the exception that different PHY is in use ADIN1300 from Analog Devices.
 
 
-CR00202 Ethernet Dual
----------------------
+CR00202 Ethernet 88E1512 Dual
+-----------------------------
 .. image:: HS_Modules/CR00202-01-3D.jpg
 
 
