@@ -55,14 +55,14 @@ def get_git_branch():
 
 # -- Project information -----------------------------------------------------
 
-project = u'CRUVI Standard'
+project = u'CRUVI Modules and Carriers'
 copyright = u'2019-2023 MicroFPGA UGh & contributors'
 author = u'MicroFPGA UGh & contributors'
 
 # The short X.Y version
 version = u'1.0'
 # The full version, including alpha/beta/rc tags
-release = u'1.0.5-alpha'
+release = u'1.0.0-alpha'
 
 
 # -- General configuration ---------------------------------------------------
@@ -204,7 +204,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'RTDSphinxThemeSample.tex', project,
-     u'MicroFPGA UG \\& contributors', 'manual'),
+     u'MicroFPGA UGh \\& contributors', 'manual'),
 ]
 
 
