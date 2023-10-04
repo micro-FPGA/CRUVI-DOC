@@ -14,6 +14,6 @@ CR00005 to Pmod Adapter
 
 CR00025 from Pmod Adapter
 -------------------------
-.. image:: LS_Modules/CR00005-01-3D.jpg
+.. image:: LS_Modules/CR00025-01-3D.jpg
 
 
