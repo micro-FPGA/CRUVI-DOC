@@ -6,7 +6,9 @@ This is a list of "mini" carrier boards for CRUVI modules. It is also possible t
 CR00010
 -------
 
-foo bar
+This is a special mini carrier developed and produced for exclusive use by VHDPlus as `Core Max10 <https://vhdplus.com/docs/components/vhdpcore_max10/>'_
+Note that the 100mil pin headers on the bottom side of the PCB are not covered by the CRUVI Standard.
+
 
 CR00100
 -------

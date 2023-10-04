@@ -11,6 +11,6 @@ CR00025 from Pmod Adapter
 -------------------------
 .. image:: Adapters/CR00025-01-3D.jpg
 
-This is purely passive 1:1 Adapter from CRUVI LS to Pmod connector. There are only two connectors and no active or passive components on board.
+This is purely passive 1:1 Adapter from Pmod to CRUVI LS connector. There are only two connectors and no active or passive components on board. For optional 5V VBUS voltage there are pin header holes for optional power header.
 
 
