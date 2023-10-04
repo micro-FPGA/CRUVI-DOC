@@ -2,10 +2,10 @@ HS Modules
 ==========
 
 
-CR00041
--------
+CR00041 HyperRAM/xSPI
+---------------------
 
-HyperRAM
+This module can be assembled with HyperRAM, HyperFlash or Octal/xSPI Flash, they all share common footprint.
 
 CR00041 PSRAM
 -------------
