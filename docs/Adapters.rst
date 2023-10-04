@@ -27,3 +27,9 @@ CR00101 FMC Adapter
 
 FMC to CRUVI HS adapter for low profile HS modules. Note for other HS modules (not low profile) another FMC card must be used. Single and dual wide CRUVI HS boards are supported.
 
+
+CR00111 FMC Adapter
+-------------------
+.. image:: Adapters/CR00111-01-3D.jpg
+
+FMC to CRUVI HS adapter. Single, dual and tripple wide CRUVI HS boards are supported, no restriction on component height.

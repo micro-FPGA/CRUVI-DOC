@@ -32,14 +32,14 @@ CR00200 Ethernet 88E1512
 ------------------------
 .. image:: HS_Modules/CR00200-01-3D.jpg
 
-This adapter board follows CRUVI specification for RGMII interface. VCC adjustable range 1.8 to 3.3V.
+This adapter board follows CRUVI specification for RGMII interface. VCC adjustable range 1.8V to 3.3V.
 
 
 CR00201 Ethernet ADIN1300
 -------------------------
 This module is in pre-production, available soon!
 
-This adapter board follows CRUVI specification for RGMII interface. VCC adjustable range 1.8 to 3.3V.
+This adapter board follows CRUVI specification for RGMII interface. VCC adjustable range 1.8V to 3.3V.
 
 This module is very similar to CR00200 with the exception that different PHY is in use ADIN1300 from Analog Devices.
 
@@ -48,12 +48,12 @@ CR00202 Ethernet 88E1512 Dual
 -----------------------------
 .. image:: HS_Modules/CR00202-01-3D.jpg
 
-This adapter board follows CRUVI specification for dual RGMII interface. VCC adjustable range 1.8 to 3.3V.
+This adapter board follows CRUVI specification for dual RGMII interface. VCC adjustable range 1.8V to 3.3V.
 
 CR00203 Ethernet ADIN1300 Dual
 ------------------------------
 This module is in pre-production, available soon!
 
-This adapter board follows CRUVI specification for dual RGMII interface. VCC adjustable range 1.8 to 3.3V.
+This adapter board follows CRUVI specification for dual RGMII interface. VCC adjustable range 1.8V to 3.3V.
 
 This module is very similar to CR00202 with the exception that different PHY is in use ADIN1300 from Analog Devices.
