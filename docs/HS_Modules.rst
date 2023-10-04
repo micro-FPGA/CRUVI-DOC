@@ -7,12 +7,11 @@ CR00041 HyperRAM/xSPI
 
 This module can be assembled with HyperRAM, HyperFlash or Octal/xSPI Flash, they all share common footprint.
 
-CR00041 PSRAM
+CR00045 PSRAM
 -------------
 .. image:: HS_Modules/CR00045-01-3D.jpg
 
 PSRAM add-on board for AP Memroy PSRAM devices, 8 and 16 bit mode supported. VCCIO adjustable must be 1.8V.
-
 
 
 CR00200 Ethernet 88E1512
