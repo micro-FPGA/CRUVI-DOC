@@ -12,7 +12,10 @@ If you want the SPECIFICATION please get it from here:
 
    LS Modules <LS_Modules>
    HS Modules <HS_Modules>
-   Mini Carriers <Mini_Carriers>
    Adapter Boards <Adapters>
+   Mini Carriers <Mini_Carriers>
+   Carriers <Carriers>
+
+
 
    
