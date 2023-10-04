@@ -1,5 +1,5 @@
-CR00041
--------
+.. toctree::
+   :maxdepth: 5
 
-HyperRAM test
-
+   test caption2 <test2> 
+   test caption3 <test3> 
