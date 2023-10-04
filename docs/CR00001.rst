@@ -1,7 +1,0 @@
-CR00001 SPI Flash
------------------
-
-empty content
-
-.. image:: CR00061-3D.png
-
