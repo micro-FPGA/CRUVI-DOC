@@ -1,11 +1,34 @@
 List of CRUVI LS (Low Speed) modules
 ====================================
 
-CR00001 SPI Flash
------------------
+CR00001 SPI Flash BGA24
+-----------------------
 .. image:: LS_Modules/CR00001-01-3D.jpg
 
-This module is a simple SPI Flash adapter. Can be assembled with any SPI flash in BGA24 4x6 mm package. Note that only 3.3V types are supported by the CRUVI LS hosts. I2C identification EEPROM is provided.
+This module is a simple SPI Flash adapter. Can be assembled with any SPI flash in BGA24 6x8 mm package. 
+Note that only 3.3V SPI Flashes are supported by the CRUVI LS hosts. I2C identification EEPROM is provided.
+
++-------+--------+-------+
+| CRUVI |        |       |
++=======+========+=======+
+|       |        |       |
++-------+--------+-------+
+|       |        |       |
++-------+--------+-------+
+|       |        |       |
++-------+--------+-------+
+|       |        |       |
++-------+--------+-------+
+|       |        |       |
++-------+--------+-------+
+|       |        |       |
++-------+--------+-------+
+|       |        |       |
++-------+--------+-------+
+|       |        |       |
++-------+--------+-------+
+
+
 
 CR00005 to Pmod Adapter
 -----------------------
